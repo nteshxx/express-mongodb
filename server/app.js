@@ -3,7 +3,6 @@ const app = express()
 const mongoose = require('mongoose')
 const PORT = 5000
 const {MONGOURI} = require('./keys')
-//fastwrld
 
 
 require('./models/user')

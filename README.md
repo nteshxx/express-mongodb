@@ -4,7 +4,8 @@ fields for User schema.
 * email
 * password (must be 10 digit alphanumeric)
 * about
-* mobile (10 digits) _id
+* mobile (10 digits)
+* _id
 
 The following API's are
 * Create a user (name, email, password, about, mobile)

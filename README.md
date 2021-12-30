@@ -1,4 +1,6 @@
-A CRUD operation API for the user having below listed
+# express-mongodb
+
+A Restful CRUD API for the user having below listed
 fields for User schema.
 * name
 * email
@@ -17,3 +19,8 @@ The following API endpoints are
 
 From 3-6, operations is operatable on secure routes if
 valid JWT is present.
+
+### Download
+```
+git clone 
+```

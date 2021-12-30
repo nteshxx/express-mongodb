@@ -22,5 +22,18 @@ valid JWT is present.
 
 ### Download
 ```
-git clone 
+git clone https://github.com/nteshxx/express-mongodb.git
 ```
+
+### Install
+```
+cd server
+npm install
+```
+
+### Run
+```
+node app.js
+```
+
+#### Happy Coding!
